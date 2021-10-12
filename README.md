@@ -7,4 +7,3 @@
 <blockquote>idade = 21</blockquote>
 </p>
 <p>No mais, é isso&#x1F440.</p>
-<!--Só comentando aqui dboas DNV-->
